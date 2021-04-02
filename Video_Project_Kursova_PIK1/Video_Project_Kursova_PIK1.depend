@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1591117218 source:c:\users\iveta\desktop\pik 2\video_project_kursova_pik1\main.c
+	"videosFunc.c"
+
+1591192137 c:\users\iveta\desktop\pik 2\video_project_kursova_pik1\videosfunc.c
+	"videosData.h"
+
+1591119439 c:\users\iveta\desktop\pik 2\video_project_kursova_pik1\videosdata.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1591113620 source:c:\users\lenovo\desktop\video_project_kursova_pik1\main.c
+	"videosFunc.c"
+
+1591188538 c:\users\lenovo\desktop\video_project_kursova_pik1\videosfunc.c
+	"videosData.h"
+
+1591115840 c:\users\lenovo\desktop\video_project_kursova_pik1\videosdata.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
